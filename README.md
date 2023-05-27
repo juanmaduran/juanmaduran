@@ -82,7 +82,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="right">
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=juanmaduran&&style=flat-square" align="right" />
 </div>  
   
