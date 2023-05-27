@@ -1,3 +1,8 @@
+![github_profile_banner](https://github.com/juanmaduran/juanmaduran/assets/134692722/d51bcb2a-ea6f-460f-a425-5ee32af153b9)
+
+
+
+
 ### <div align="center">I'm Juanma Durán, audiovisual producer & front-end web developer👨‍💻</div>  
   
 
